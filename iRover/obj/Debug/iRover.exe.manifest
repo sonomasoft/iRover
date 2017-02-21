@@ -43,110 +43,86 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="iRover.exe" size="61440">
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="NationalInstruments.Analysis.Standard" version="15.0.40.49153" publicKeyToken="DC6AD606294FC298" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="NationalInstruments.Common" version="13.0.40.188" publicKeyToken="DC6AD606294FC298" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="NationalInstruments.Common" version="15.0.40.49154" publicKeyToken="DC6AD606294FC298" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="NationalInstruments.Common" version="15.1.40.49152" publicKeyToken="DC6AD606294FC298" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="NationalInstruments.Controls" version="15.0.40.3898" publicKeyToken="DC6AD606294FC298" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="NationalInstruments.Controls.Booleans" version="15.0.40.3898" publicKeyToken="DC6AD606294FC298" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="NationalInstruments.Controls.Numerics" version="15.0.40.3898" publicKeyToken="DC6AD606294FC298" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="NationalInstruments.DAQmx" version="15.5.40.109" publicKeyToken="DC6AD606294FC298" language="neutral" processorArchitecture="x86" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="NationalInstruments.MStudioCLM" version="15.0.40.49152" publicKeyToken="DC6AD606294FC298" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="NationalInstruments.NiLmClientDLL" version="15.0.40.49152" publicKeyToken="DC6AD606294FC298" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="NationalInstruments.UI" version="15.0.40.49153" publicKeyToken="DC6AD606294FC298" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="NationalInstruments.UI.WindowsForms" version="15.0.40.49153" publicKeyToken="DC6AD606294FC298" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="iRover.exe" size="62464">
       <assemblyIdentity name="iRover" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>wQmeoCY4qsXeNjOTb0iFJ89gACE=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NationalInstruments.Analysis.Standard.dll" size="61440">
-      <assemblyIdentity name="NationalInstruments.Analysis.Standard" version="12.0.40.318" publicKeyToken="DC6AD606294FC298" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>LfJU669Rr054a4bdI3p1CQasg30=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NationalInstruments.Common.dll" size="555008">
-      <assemblyIdentity name="NationalInstruments.Common" version="13.0.40.188" publicKeyToken="DC6AD606294FC298" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>FcNNmjz1giyNZR+0bwAHRutZNfk=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NationalInstruments.Common.Native.dll" size="83456">
-      <assemblyIdentity name="NationalInstruments.Common.Native" version="13.0.40.188" publicKeyToken="DC6AD606294FC298" language="neutral" processorArchitecture="x86" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>sfA/gAeh9dgjfd1zUcnK+ewppfA=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NationalInstruments.Controls.dll" size="309760">
-      <assemblyIdentity name="NationalInstruments.Controls" version="12.0.40.318" publicKeyToken="DC6AD606294FC298" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>ZRtQOo5XZ7mYV943F14dSJyIaUE=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NationalInstruments.Controls.Booleans.dll" size="60928">
-      <assemblyIdentity name="NationalInstruments.Controls.Booleans" version="12.0.40.318" publicKeyToken="DC6AD606294FC298" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>xC+IxlP+izFQcpgidQVKxcJg1lw=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NationalInstruments.Controls.Numerics.dll" size="164352">
-      <assemblyIdentity name="NationalInstruments.Controls.Numerics" version="12.0.40.318" publicKeyToken="DC6AD606294FC298" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>/xR2BtsWBYjpK39YHgB2P+9+11o=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NationalInstruments.DAQmx.dll" size="1922048">
-      <assemblyIdentity name="NationalInstruments.DAQmx" version="9.5.40.112" publicKeyToken="DC6AD606294FC298" language="neutral" processorArchitecture="x86" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>jrkZc8MvUbMSwc5p+rExv0fTDKY=</dsig:DigestValue>
+        <dsig:DigestValue>tLpXVlDXI0w66xCp3n5B2vYVqAM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NationalInstruments.MStudioCLM.dll" size="4608">
-      <assemblyIdentity name="NationalInstruments.MStudioCLM" version="13.0.40.188" publicKeyToken="DC6AD606294FC298" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="NationalInstruments.MStudioCLM" version="15.1.40.49152" publicKeyToken="DC6AD606294FC298" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>5IBUusvR8Wj82E8Z0AO7NB2kbWU=</dsig:DigestValue>
+        <dsig:DigestValue>8kLzkjnvPb9nSBwyV2hJIZNjMkg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -163,50 +139,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NationalInstruments.NiLmClientDLL.dll" size="29696">
-      <assemblyIdentity name="NationalInstruments.NiLmClientDLL" version="13.0.40.188" publicKeyToken="DC6AD606294FC298" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NationalInstruments.NiLmClientDLL.dll" size="30208">
+      <assemblyIdentity name="NationalInstruments.NiLmClientDLL" version="15.1.40.49152" publicKeyToken="DC6AD606294FC298" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>p21NNuP5SisD9tLIbdBlHQ5M/ZI=</dsig:DigestValue>
+        <dsig:DigestValue>DPqGNhe5SutkC/ti2dzHnr+v5VY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NationalInstruments.UI.dll" size="1695744">
-      <assemblyIdentity name="NationalInstruments.UI" version="12.0.40.318" publicKeyToken="DC6AD606294FC298" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NationalInstruments.UI.Styles3D.dll" size="256512">
+      <assemblyIdentity name="NationalInstruments.UI.Styles3D" version="15.0.40.49152" publicKeyToken="DC6AD606294FC298" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>QOJ8IawGQTKudZhwqECdxDVOdxc=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NationalInstruments.UI.Styles3D.dll" size="266752">
-      <assemblyIdentity name="NationalInstruments.UI.Styles3D" version="12.0.40.318" publicKeyToken="DC6AD606294FC298" language="neutral" processorArchitecture="x86" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>3M1ohl7bi6tM8qAb1gg4giHH6FY=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NationalInstruments.UI.WindowsForms.dll" size="348160">
-      <assemblyIdentity name="NationalInstruments.UI.WindowsForms" version="12.0.40.318" publicKeyToken="DC6AD606294FC298" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>XRhx5Ffvfd6t0uEBEMmUJnW52yI=</dsig:DigestValue>
+        <dsig:DigestValue>yXTcXon/OO8ADHSwOZLsyARC+VE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

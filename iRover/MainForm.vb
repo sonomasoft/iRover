@@ -111,7 +111,7 @@ Public Class MainForm
         Call Test7()
         Call test8()
         Call test9()
-        ' Call Test10()
+        Call Test10()
 
 
         ' save data to file here.
@@ -1725,7 +1725,7 @@ Public Class MainForm
 
         ' use dio to set up kent's fixture.
 
-        HP34970A = New Device(0, 9, 0)
+        HP34970A = New Device(0, 9, 0)  ' was 6
         Try
 
 
@@ -1777,7 +1777,7 @@ Public Class MainForm
 
 
 
-        HP34401A = New Device(0, 6, 0)
+        HP34401A = New Device(0, 22, 0)
 
         Try
 
@@ -1818,16 +1818,35 @@ Public Class MainForm
 
 
         ' measure and display
-        HP34401A.Write(ReplaceCommonEscapeSequences("CONF:VOLT:DC 1000\n"))
+        'HP34401A.Write(ReplaceCommonEscapeSequences("CONF:VOLT:DC 1000\n"))
 
-        HP34401A.Write(ReplaceCommonEscapeSequences("SAMPLE:COUNT 1\n"))
+        'HP34401A.Write(ReplaceCommonEscapeSequences("SAMPLE:COUNT 1\n"))
 
-        ' HP34401A.Write(ReplaceCommonEscapeSequences("TRIG:DELAY 5\n"))
+        '' HP34401A.Write(ReplaceCommonEscapeSequences("TRIG:DELAY 5\n"))
 
 
-        HP34401A.Write(ReplaceCommonEscapeSequences("TRIG:SOUR IMM\n"))
+        'HP34401A.Write(ReplaceCommonEscapeSequences("TRIG:SOUR IMM\n"))
 
         MessageBox.Show("Press OK to Continue")
+
+        ' measure and display
+        HP34401A.Write(ReplaceCommonEscapeSequences("CONF:VOLT:DC 1000\n"))
+        HP34401A.Write(ReplaceCommonEscapeSequences("TRIG:SOUR IMM\n"))
+        HP34401A.Write(ReplaceCommonEscapeSequences("MEAS:VOLT:DC?\n"))
+
+        response = InsertCommonEscapeSequences(HP34401A.ReadString())
+
+
+
+
+
+
+
+
+
+
+
+
 
         ' MEASURE 5 TIMES
         ' Dim INDX As Integer
@@ -1835,11 +1854,11 @@ Public Class MainForm
 
         ' HP34401A.Write(ReplaceCommonEscapeSequences("MEASURE:VOLT:DC?\n"))
 
-        HP34401A.Write(ReplaceCommonEscapeSequences("READ?"))
+        'HP34401A.Write(ReplaceCommonEscapeSequences("READ?"))
 
 
 
-        response = InsertCommonEscapeSequences(HP34401A.ReadString())
+        'response = InsertCommonEscapeSequences(HP34401A.ReadString())
 
 
 
