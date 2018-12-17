@@ -1,0 +1,1251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InstallerBuilderProject>
+  <Installer>
+    <ProductName>iRover</ProductName>
+    <ScheduleReboot>false</ScheduleReboot>
+    <ProductVersion>1.0.3</ProductVersion>
+    <UpgradeCode>{A6B8D7B2-8F6C-437D-A01C-AE04C62B4604}</UpgradeCode>
+    <Publisher>&lt;Unknown&gt;</Publisher>
+    <AllowDirectorySelection>true</AllowDirectorySelection>
+    <SelectedProducts>
+      <ProductSelection>
+        <Product>
+          <Id>{731B50FF-5696-4D31-971F-CD4C6DCCF166}</Id>
+          <UpgradeCode>b431cda0-0424-4bf2-a16e-506267104e1b</UpgradeCode>
+          <Name>NI Measurement Studio Common .NET Language Runtime 2015 for .NET 4.0</Name>
+          <Version>15.10.49152</Version>
+          <Description>The NI Measurement Studio Common .NET Language Runtime 2015 for .NET 4.0</Description>
+          <InstallerInformation>
+            <Path>C:\ProgramData\National Instruments\MDF\ProductCache\</Path>
+            <Title>Local Cache</Title>
+            <Type>Cached</Type>
+          </InstallerInformation>
+          <FlavorId>Runtime</FlavorId>
+          <FlavorDisplayName>Full</FlavorDisplayName>
+        </Product>
+        <RemovedSoftDependencies />
+        <UseSpecificVersion>false</UseSpecificVersion>
+        <Features />
+        <Properties />
+      </ProductSelection>
+      <ProductSelection>
+        <Product>
+          <Id>{137571E8-8C31-4957-B6D8-0655D4352FAA}</Id>
+          <UpgradeCode>a0865ca8-e3fc-4fa2-ae33-3b027dafff94</UpgradeCode>
+          <Name>NI PXI Platform Services Runtime 15.0</Name>
+          <Version>15.0.49153</Version>
+          <Description>Implements the PXI software specifications, allows auto-identification for PXI Express systems, and provides PXI services to other NI products.</Description>
+          <InstallerInformation>
+            <Path>C:\ProgramData\National Instruments\MDF\ProductCache\</Path>
+            <Title>Local Cache</Title>
+            <Type>Cached</Type>
+          </InstallerInformation>
+          <FlavorId>_full_</FlavorId>
+          <FlavorDisplayName>Runtime</FlavorDisplayName>
+        </Product>
+        <RemovedSoftDependencies />
+        <UseSpecificVersion>false</UseSpecificVersion>
+        <Features />
+        <Properties />
+      </ProductSelection>
+      <ProductSelection>
+        <Product>
+          <Id>{76672E0F-87B7-4DF3-9EFC-01845098BC62}</Id>
+          <UpgradeCode>357f6618-c660-41a2-a185-5578cc876d1d</UpgradeCode>
+          <Name>NI-488.2 Runtime 15.5</Name>
+          <Version>15.50.49152</Version>
+          <Description>Includes drivers for NI GPIB hardware.</Description>
+          <InstallerInformation>
+            <Path>C:\ProgramData\National Instruments\MDF\ProductCache\</Path>
+            <Title>Local Cache</Title>
+            <Type>Cached</Type>
+          </InstallerInformation>
+          <FlavorId>_full_</FlavorId>
+          <FlavorDisplayName>NI-488.2</FlavorDisplayName>
+        </Product>
+        <RemovedSoftDependencies />
+        <UseSpecificVersion>false</UseSpecificVersion>
+        <Features />
+        <Properties />
+      </ProductSelection>
+      <ProductSelection>
+        <Product>
+          <Id>{7F45CA1E-0697-4B3D-9167-A1D9E8F8EE42}</Id>
+          <UpgradeCode>04559a2d-0a31-4318-8bf3-2ce012d6f087</UpgradeCode>
+          <Name>NI-488.2 .NET Language Runtime 15.0 for .NET Framework 4.0</Name>
+          <Version>15.0.49152</Version>
+          <Description>NI-488.2 .NET Language Runtime 15.0 for .NET Framework 4.0</Description>
+          <InstallerInformation>
+            <Path>C:\ProgramData\National Instruments\MDF\ProductCache\</Path>
+            <Title>Local Cache</Title>
+            <Type>Cached</Type>
+          </InstallerInformation>
+          <FlavorId>Full</FlavorId>
+          <FlavorDisplayName>Full</FlavorDisplayName>
+        </Product>
+        <RemovedSoftDependencies />
+        <UseSpecificVersion>false</UseSpecificVersion>
+        <Features />
+        <Properties />
+      </ProductSelection>
+      <ProductSelection>
+        <Product>
+          <Id>{36AADB39-88B7-4228-8421-F4EBD0B8D826}</Id>
+          <UpgradeCode>8627993a-3f66-483c-a562-0d3ba3f267b1</UpgradeCode>
+          <Name>NI-VISA Runtime 15.5</Name>
+          <Version>15.50.49152</Version>
+          <Description>NI-VISA provides an API for controlling USB, TCPIP, GPIB, Serial, PXI, and other types of instruments.</Description>
+          <InstallerInformation>
+            <Path>C:\ProgramData\National Instruments\MDF\ProductCache\</Path>
+            <Title>Local Cache</Title>
+            <Type>Cached</Type>
+          </InstallerInformation>
+          <FlavorId>_deployment_</FlavorId>
+          <FlavorDisplayName>Runtime</FlavorDisplayName>
+        </Product>
+        <RemovedSoftDependencies />
+        <UseSpecificVersion>false</UseSpecificVersion>
+        <Features />
+        <Properties />
+      </ProductSelection>
+      <ProductSelection>
+        <Product>
+          <Id>{C72F26AF-4266-4899-B4B6-626B100E3179}</Id>
+          <UpgradeCode>23520db6-0277-4f84-be7a-7e1458066f72</UpgradeCode>
+          <Name>NI-VISA (NS) .NET Language Runtime 15.0 for .NET Framework 4.0</Name>
+          <Version>15.50.49152</Version>
+          <Description>NI-VISA (NS) .NET Language Runtime 15.0 for .NET Framework 4.0</Description>
+          <InstallerInformation>
+            <Path>C:\ProgramData\National Instruments\MDF\ProductCache\</Path>
+            <Title>Local Cache</Title>
+            <Type>Cached</Type>
+          </InstallerInformation>
+          <FlavorId>Full</FlavorId>
+          <FlavorDisplayName>Full</FlavorDisplayName>
+        </Product>
+        <RemovedSoftDependencies />
+        <UseSpecificVersion>false</UseSpecificVersion>
+        <Features />
+        <Properties />
+      </ProductSelection>
+      <ProductSelection>
+        <Product>
+          <Id>{41A4D3B1-B1A6-4445-A1D6-A09DC8799B11}</Id>
+          <UpgradeCode>63bb9fc4-e4c1-4a01-9735-1ce3d5edcf40</UpgradeCode>
+          <Name>NI Measurement Studio UI .NET Language Runtime 2015 for .NET 4.0</Name>
+          <Version>15.0.49153</Version>
+          <Description>The NI Measurement Studio UI .NET Language Runtime 2015 for .NET 4.0</Description>
+          <InstallerInformation>
+            <Path>C:\ProgramData\National Instruments\MDF\ProductCache\</Path>
+            <Title>Local Cache</Title>
+            <Type>Cached</Type>
+          </InstallerInformation>
+          <FlavorId>Full</FlavorId>
+          <FlavorDisplayName>Runtime</FlavorDisplayName>
+        </Product>
+        <RemovedSoftDependencies />
+        <UseSpecificVersion>false</UseSpecificVersion>
+        <Features />
+        <Properties />
+      </ProductSelection>
+    </SelectedProducts>
+    <InstallationUISettings>
+      <Language>English</Language>
+      <ReadMeFile />
+      <LicenseFile />
+      <BannerImagePath />
+      <BackgroundImagePath />
+      <WelcomeDialogTitle>&lt;Installer Name&gt;</WelcomeDialogTitle>
+      <WelcomeDialogText>&lt;Welcome Message&gt;</WelcomeDialogText>
+      <SingleDirectoryDialogText />
+      <EnableFeatureTreeDialog>false</EnableFeatureTreeDialog>
+    </InstallationUISettings>
+    <BuildOutputSettings>
+      <BuildDirectory>C:\Users\Lee Henderson\AppData\Local\Temp\National Instruments\MIB\Builds\[09 07 17][10 50 33]</BuildDirectory>
+      <MediaSpanSizeInMegaBytes>0</MediaSpanSizeInMegaBytes>
+      <BuildMode>MetaInstallerWithPatchSupport</BuildMode>
+      <VolumeLabel>Volume</VolumeLabel>
+    </BuildOutputSettings>
+    <LaunchCondition>
+      <MinimumOperatingSystem>None</MinimumOperatingSystem>
+      <MaximumOperatingSystem>None</MaximumOperatingSystem>
+      <MinimumDotNetVersion>None</MinimumDotNetVersion>
+    </LaunchCondition>
+    <BitnessMode>Mixed</BitnessMode>
+    <ApplicationDirectory>
+      <Path>International Medcom</Path>
+      <RootPath>ProgramFilesFolder</RootPath>
+      <PathType>RelativeToDirectoryTableKey</PathType>
+    </ApplicationDirectory>
+    <PropertyTable />
+    <Files>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{71F1BA0B-9497-4B12-B72B-F8984768F9E2}</ComponentId>
+        <SourceFullPath>C:\Users\Lee Henderson\Documents\GitHub\iRover\iRover\bin\Debug\iRover.exe</SourceFullPath>
+        <FileName>iRover.exe</FileName>
+        <TargetPath>
+          <Path>International Medcom</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{1970FC24-09A0-4858-90AF-FDF9CCF5BD6C}</ComponentId>
+        <SourceFullPath>C:\Users\Lee Henderson\Documents\GitHub\iRover\iRover\bin\Debug\iRover.exe.config</SourceFullPath>
+        <FileName>iRover.exe.config</FileName>
+        <TargetPath>
+          <Path>International Medcom</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{E89DA6C7-938D-499F-BD31-C42015AF0732}</ComponentId>
+        <SourceFullPath>C:\Users\Lee Henderson\Documents\GitHub\iRover\iRover\bin\Debug\iRover.exe.manifest</SourceFullPath>
+        <FileName>iRover.exe.manifest</FileName>
+        <TargetPath>
+          <Path>International Medcom</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{0EFD525B-C32B-4DBC-A6FC-D629F21CE8DE}</ComponentId>
+        <SourceFullPath>C:\Users\Lee Henderson\Documents\GitHub\iRover\iRover\bin\Debug\iRover.vshost.application</SourceFullPath>
+        <FileName>iRover.vshost.application</FileName>
+        <TargetPath>
+          <Path>International Medcom</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{5D26132A-2A51-482B-8202-C9834DDF3BC8}</ComponentId>
+        <SourceFullPath>C:\Users\Lee Henderson\Documents\GitHub\iRover\iRover\bin\Debug\iRover.vshost.exe</SourceFullPath>
+        <FileName>iRover.vshost.exe</FileName>
+        <TargetPath>
+          <Path>International Medcom</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{C446BEF7-985F-4D58-93E4-489D6DDEEB51}</ComponentId>
+        <SourceFullPath>C:\Users\Lee Henderson\Documents\GitHub\iRover\iRover\bin\Debug\iRover.vshost.exe.config</SourceFullPath>
+        <FileName>iRover.vshost.exe.config</FileName>
+        <TargetPath>
+          <Path>International Medcom</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{C3DB1CBD-05E0-426D-855C-7C637467CD83}</ComponentId>
+        <SourceFullPath>C:\Users\Lee Henderson\Documents\GitHub\iRover\iRover\bin\Debug\iRover.vshost.exe.manifest</SourceFullPath>
+        <FileName>iRover.vshost.exe.manifest</FileName>
+        <TargetPath>
+          <Path>International Medcom</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{81E797DE-38C6-47A5-832D-E5D66ACE29D5}</ComponentId>
+        <SourceFullPath>C:\Users\Lee Henderson\Documents\GitHub\iRover\iRover\bin\Debug\iRover.xml</SourceFullPath>
+        <FileName>iRover.xml</FileName>
+        <TargetPath>
+          <Path>International Medcom</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{CA17BAEA-2D88-47C8-9AA1-A3818455CD39}</ComponentId>
+        <SourceFullPath>C:\Users\Lee Henderson\Documents\GitHub\iRover\iRover\bin\Debug\NationalInstruments.Analysis.Standard.dll</SourceFullPath>
+        <FileName>NationalInstruments.Analysis.Standard.dll</FileName>
+        <TargetPath>
+          <Path>International Medcom</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{6535B7B8-BD26-4675-B48F-83F7D70F9951}</ComponentId>
+        <SourceFullPath>C:\Users\Lee Henderson\Documents\GitHub\iRover\iRover\bin\Debug\NationalInstruments.Common.dll</SourceFullPath>
+        <FileName>NationalInstruments.Common.dll</FileName>
+        <TargetPath>
+          <Path>International Medcom</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{47687302-3910-45BB-9455-36AD937E7855}</ComponentId>
+        <SourceFullPath>C:\Users\Lee Henderson\Documents\GitHub\iRover\iRover\bin\Debug\NationalInstruments.Controls.Booleans.dll</SourceFullPath>
+        <FileName>NationalInstruments.Controls.Booleans.dll</FileName>
+        <TargetPath>
+          <Path>International Medcom</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{44BEA4C0-1301-4D4F-A530-5B550A484596}</ComponentId>
+        <SourceFullPath>C:\Users\Lee Henderson\Documents\GitHub\iRover\iRover\bin\Debug\NationalInstruments.Controls.dll</SourceFullPath>
+        <FileName>NationalInstruments.Controls.dll</FileName>
+        <TargetPath>
+          <Path>International Medcom</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{B4231109-4791-4B15-87F5-E31FFBF5EAF7}</ComponentId>
+        <SourceFullPath>C:\Users\Lee Henderson\Documents\GitHub\iRover\iRover\bin\Debug\NationalInstruments.Controls.Numerics.dll</SourceFullPath>
+        <FileName>NationalInstruments.Controls.Numerics.dll</FileName>
+        <TargetPath>
+          <Path>International Medcom</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{4AD039DE-2887-4CD8-9C7A-290585B79104}</ComponentId>
+        <SourceFullPath>C:\Users\Lee Henderson\Documents\GitHub\iRover\iRover\bin\Debug\NationalInstruments.DAQmx.dll</SourceFullPath>
+        <FileName>NationalInstruments.DAQmx.dll</FileName>
+        <TargetPath>
+          <Path>International Medcom</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{59F024F4-0DEE-4FFF-8458-9AB556D52605}</ComponentId>
+        <SourceFullPath>C:\Users\Lee Henderson\Documents\GitHub\iRover\iRover\bin\Debug\NationalInstruments.NI4882.dll</SourceFullPath>
+        <FileName>NationalInstruments.NI4882.dll</FileName>
+        <TargetPath>
+          <Path>International Medcom</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{FF8B092F-79A9-4B56-AE37-70B9734C6D8A}</ComponentId>
+        <SourceFullPath>C:\Users\Lee Henderson\Documents\GitHub\iRover\iRover\bin\Debug\NationalInstruments.NI4882.xml</SourceFullPath>
+        <FileName>NationalInstruments.NI4882.xml</FileName>
+        <TargetPath>
+          <Path>International Medcom</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{D2B94BED-5A57-4E46-88AE-D5E8A7F9209B}</ComponentId>
+        <SourceFullPath>C:\Users\Lee Henderson\Documents\GitHub\iRover\iRover\bin\Debug\NationalInstruments.UI.dll</SourceFullPath>
+        <FileName>NationalInstruments.UI.dll</FileName>
+        <TargetPath>
+          <Path>International Medcom</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{2BE23EA5-C48B-4C8D-9502-E15591FCB9FC}</ComponentId>
+        <SourceFullPath>C:\Users\Lee Henderson\Documents\GitHub\iRover\iRover\bin\Debug\NationalInstruments.UI.WindowsForms.dll</SourceFullPath>
+        <FileName>NationalInstruments.UI.WindowsForms.dll</FileName>
+        <TargetPath>
+          <Path>International Medcom</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{95E1503B-5607-418B-8ECA-AB20B6964E50}</ComponentId>
+        <SourceFullPath>C:\Users\Lee Henderson\Documents\GitHub\iRover\iRover\bin\Debug\NationalInstruments.VisaNS.dll</SourceFullPath>
+        <FileName>NationalInstruments.VisaNS.dll</FileName>
+        <TargetPath>
+          <Path>International Medcom</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{10A93E79-349E-4057-823B-B93E451FE21E}</ComponentId>
+        <SourceFullPath>C:\Users\Lee Henderson\Documents\GitHub\iRover\iRover\bin\Debug\NationalInstruments.VisaNS.xml</SourceFullPath>
+        <FileName>NationalInstruments.VisaNS.xml</FileName>
+        <TargetPath>
+          <Path>International Medcom</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{67E204B6-AC7A-474D-A3F7-15F4B2C6612B}</ComponentId>
+        <SourceFullPath>C:\Users\Lee Henderson\Documents\GitHub\iRover\iRover\bin\Debug\System.Data.DataSetExtensions.dll</SourceFullPath>
+        <FileName>System.Data.DataSetExtensions.dll</FileName>
+        <TargetPath>
+          <Path>International Medcom</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{0FC9CE5A-DDB5-4C59-8482-395F8FBC7F27}</ComponentId>
+        <SourceFullPath>C:\Users\Lee Henderson\Documents\GitHub\iRover\iRover\bin\Debug\System.Data.dll</SourceFullPath>
+        <FileName>System.Data.dll</FileName>
+        <TargetPath>
+          <Path>International Medcom</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{80A9BD8D-5786-44E1-9AAE-5361F95727C9}</ComponentId>
+        <SourceFullPath>C:\Users\Lee Henderson\Documents\GitHub\iRover\iRover\bin\Debug\System.Deployment.dll</SourceFullPath>
+        <FileName>System.Deployment.dll</FileName>
+        <TargetPath>
+          <Path>International Medcom</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{1FED323A-0D36-4B54-A13E-10663CB4760A}</ComponentId>
+        <SourceFullPath>C:\Users\Lee Henderson\Documents\GitHub\iRover\iRover\bin\Debug\System.dll</SourceFullPath>
+        <FileName>System.dll</FileName>
+        <TargetPath>
+          <Path>International Medcom</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{46A972F0-CB78-4EFF-9E32-783FC90FB9D0}</ComponentId>
+        <SourceFullPath>C:\Users\Lee Henderson\Documents\GitHub\iRover\iRover\bin\Debug\System.Drawing.dll</SourceFullPath>
+        <FileName>System.Drawing.dll</FileName>
+        <TargetPath>
+          <Path>International Medcom</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{66856284-7A1A-4D19-AC28-078A1640A065}</ComponentId>
+        <SourceFullPath>C:\Users\Lee Henderson\Documents\GitHub\iRover\iRover\bin\Debug\System.Windows.Forms.dll</SourceFullPath>
+        <FileName>System.Windows.Forms.dll</FileName>
+        <TargetPath>
+          <Path>International Medcom</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{318D381C-FA92-41A6-A31C-DFA597C9A400}</ComponentId>
+        <SourceFullPath>C:\Users\Lee Henderson\Documents\GitHub\iRover\iRover\bin\Debug\System.Xml.dll</SourceFullPath>
+        <FileName>System.Xml.dll</FileName>
+        <TargetPath>
+          <Path>International Medcom</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{2AFD83F8-B6C9-4E6B-A76B-DEA79A1EEB3A}</ComponentId>
+        <SourceFullPath>C:\Users\Lee Henderson\Documents\GitHub\iRover\iRover\bin\Debug\System.Xml.Linq.dll</SourceFullPath>
+        <FileName>System.Xml.Linq.dll</FileName>
+        <TargetPath>
+          <Path>International Medcom</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+      <FileEntry>
+        <InstallToGAC>false</InstallToGAC>
+        <RegisterAsActiveXServer>false</RegisterAsActiveXServer>
+        <ComponentId>{152D1562-CBB1-4191-B984-1EE72B5CAE63}</ComponentId>
+        <SourceFullPath>C:\Users\Lee Henderson\Documents\GitHub\iRover\iRover\bin\Debug\testdata.txt</SourceFullPath>
+        <FileName>testdata.txt</FileName>
+        <TargetPath>
+          <Path>International Medcom</Path>
+          <RootPath>ProgramFilesFolder</RootPath>
+          <PathType>RelativeToDirectoryTableKey</PathType>
+        </TargetPath>
+        <FeatureName />
+        <Condition />
+        <FileAttributeType>Normal</FileAttributeType>
+        <ProgramExecutionAttributesList>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>ResumeAfterRun</Mode>
+            <Condition />
+            <ExecutionTiming>LateDuringInstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+          <ProgramExecutionAttributes>
+            <IsEnabled>false</IsEnabled>
+            <CommandLineArguments />
+            <Mode>WaitForCompletion</Mode>
+            <Condition />
+            <ExecutionTiming>EarlyDuringUninstall</ExecutionTiming>
+          </ProgramExecutionAttributes>
+        </ProgramExecutionAttributesList>
+        <InstallationType>LocalOnly</InstallationType>
+        <FileShortcutAttributes />
+      </FileEntry>
+    </Files>
+    <MergeModules />
+    <Registries />
+    <ApplicationsToRunOnTargetMachine />
+    <MAXConfigurationFile />
+    <InstallerFileSummary>
+      <Title />
+      <Subject />
+      <Keywords />
+      <Author />
+      <Comments />
+      <ApplicationName />
+      <Security>NoRestriction</Security>
+    </InstallerFileSummary>
+    <WindowsProgramsSettings>
+      <HelpUrl />
+      <PublisherContact />
+      <SupportUrl />
+      <SupportPhone />
+      <ProductUpdatesUrl />
+      <Comments />
+    </WindowsProgramsSettings>
+    <Id>{5F10EDD4-F1B0-4840-BF4A-8127E194F572}</Id>
+  </Installer>
+  <TargetDirectories>
+    <TargetDirectoryInformation>
+      <TargetPath>
+        <Path />
+        <RootPath>ProgramFilesFolder</RootPath>
+        <PathType>RelativeToDirectoryTableKey</PathType>
+      </TargetPath>
+      <IsUnlockDirectory>false</IsUnlockDirectory>
+    </TargetDirectoryInformation>
+    <TargetDirectoryInformation>
+      <TargetPath>
+        <Path>International Medcom</Path>
+        <RootPath>ProgramFilesFolder</RootPath>
+        <PathType>RelativeToDirectoryTableKey</PathType>
+      </TargetPath>
+      <IsUnlockDirectory>false</IsUnlockDirectory>
+    </TargetDirectoryInformation>
+  </TargetDirectories>
+  <VersionIncrementMode>IncrementAfterSuccessfulBuild</VersionIncrementMode>
+  <UserNotes />
+  <IsShowRuntimeInstallerOnly>True</IsShowRuntimeInstallerOnly>
+  <IsCustomInstallerName>True</IsCustomInstallerName>
+  <AutoIncludeInstallers>True</AutoIncludeInstallers>
+  <ProductSelectionInfoList>
+    <ProductSelectionInfo>
+      <Id>
+        <ProductId>{731B50FF-5696-4D31-971F-CD4C6DCCF166}</ProductId>
+        <FlavorId>Runtime</FlavorId>
+      </Id>
+      <IsInstallerIncludedByUser>False</IsInstallerIncludedByUser>
+      <IsInstallerAutoIncluded>True</IsInstallerAutoIncluded>
+    </ProductSelectionInfo>
+    <ProductSelectionInfo>
+      <Id>
+        <ProductId>{137571E8-8C31-4957-B6D8-0655D4352FAA}</ProductId>
+        <FlavorId>_full_</FlavorId>
+      </Id>
+      <IsInstallerIncludedByUser>False</IsInstallerIncludedByUser>
+      <IsInstallerAutoIncluded>True</IsInstallerAutoIncluded>
+    </ProductSelectionInfo>
+    <ProductSelectionInfo>
+      <Id>
+        <ProductId>{76672E0F-87B7-4DF3-9EFC-01845098BC62}</ProductId>
+        <FlavorId>_full_</FlavorId>
+      </Id>
+      <IsInstallerIncludedByUser>False</IsInstallerIncludedByUser>
+      <IsInstallerAutoIncluded>True</IsInstallerAutoIncluded>
+    </ProductSelectionInfo>
+    <ProductSelectionInfo>
+      <Id>
+        <ProductId>{7F45CA1E-0697-4B3D-9167-A1D9E8F8EE42}</ProductId>
+        <FlavorId>Full</FlavorId>
+      </Id>
+      <IsInstallerIncludedByUser>False</IsInstallerIncludedByUser>
+      <IsInstallerAutoIncluded>True</IsInstallerAutoIncluded>
+    </ProductSelectionInfo>
+    <ProductSelectionInfo>
+      <Id>
+        <ProductId>{36AADB39-88B7-4228-8421-F4EBD0B8D826}</ProductId>
+        <FlavorId>_deployment_</FlavorId>
+      </Id>
+      <IsInstallerIncludedByUser>False</IsInstallerIncludedByUser>
+      <IsInstallerAutoIncluded>True</IsInstallerAutoIncluded>
+    </ProductSelectionInfo>
+    <ProductSelectionInfo>
+      <Id>
+        <ProductId>{C72F26AF-4266-4899-B4B6-626B100E3179}</ProductId>
+        <FlavorId>Full</FlavorId>
+      </Id>
+      <IsInstallerIncludedByUser>False</IsInstallerIncludedByUser>
+      <IsInstallerAutoIncluded>True</IsInstallerAutoIncluded>
+    </ProductSelectionInfo>
+    <ProductSelectionInfo>
+      <Id>
+        <ProductId>{41A4D3B1-B1A6-4445-A1D6-A09DC8799B11}</ProductId>
+        <FlavorId>Full</FlavorId>
+      </Id>
+      <IsInstallerIncludedByUser>False</IsInstallerIncludedByUser>
+      <IsInstallerAutoIncluded>True</IsInstallerAutoIncluded>
+    </ProductSelectionInfo>
+  </ProductSelectionInfoList>
+  <DigitalSignatureProperties>
+    <IsDigitallySignInstallerExe>False</IsDigitallySignInstallerExe>
+    <DigitalCertificateStore>MY</DigitalCertificateStore>
+    <CertificateName>LeeHenderson-HP\Lee Henderson</CertificateName>
+    <TimeStampUrl />
+    <DescriptionUrl />
+  </DigitalSignatureProperties>
+</InstallerBuilderProject>
